@@ -4,3 +4,6 @@
 [submodule "modules/vuestrap"]
 	path = modules/vuestrap
 	url = git@github.com:nicedoc/vuestrap.git
+[submodule "modules/vuestrap-components"]
+	path = modules/vuestrap-components
+	url = git@github.com:nicedoc/vuestrap-components.git
